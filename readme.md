@@ -117,11 +117,15 @@ Script file must be renamed to *extend.m*
 
 ## FAQ
 
-### Which cameras as "modern" CBasic ?
+### Which cameras have "modern" CBasic ?
 
-Digic 8: PowerShot SX740, EOS M50, EOS R, RP, EOS 250D
+- Digic 8: PowerShot SX740, EOS M50, EOS R, RP, EOS 250D
 
-Digic X: R5, R6.
+- Digic X: R5, R6
+
+### Which cameras have Powershot Basic ?
+
+- M100
 
 ### Which Digic version has my camera ?
 
