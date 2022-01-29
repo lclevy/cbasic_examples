@@ -26,7 +26,7 @@ Warning, there are some differences between Powershot Basic and Basic on DSLR/IL
 
 Downloading code from Github and running it on your device is dangerous in general. You must know what you are doing. Anyway, Canon Basic is an interpreter, thus running script is **in general** less risky than running direct ARM code on your camera.
 
-If your code is wrong, you generally have ERR70 or the camera is freezing (for the latter, remove immediatly the battery and it should be OK). This repository is here to provide examples, to learn and reduce such risk with valited examples, **but risk will never be zero.**
+If your code is wrong, you generally have ERR70 or the camera is freezing (for the latter, remove immediatly the battery and it should be OK). This repository is here to provide examples, to learn and reduce such risk with validated examples, **but risk will never be zero.**
 
 ## Motivation
 
@@ -44,7 +44,7 @@ As the main goal is to limit risk of running code and promote collaboration, sub
 
 4. if the script is mostly based on someone's work, you <u>must </u>highlight it
 
-5. it is <u>strongly advised</u> to cite source where the content if the script has been discussed / based on (like Forum messages or Discord exchanges) 
+5. it is <u>strongly advised</u> to cite source where the content of the script has been discussed / based on (like Forum messages or Discord exchanges) 
 
 ## Example
 
@@ -126,3 +126,7 @@ Digic X: R5, R6.
 ### Which Digic version has my camera ?
 
 see [digic [Magic Lantern wiki]](https://wiki.magiclantern.fm/digic) 
+
+## How to debug ?
+
+You can not use a debugger. You can only write in a file on sdcard or debug log (which can be dumped on card A: using *dumpf()* function) 
