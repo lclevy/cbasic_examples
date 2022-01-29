@@ -1,10 +1,10 @@
-'Get R6 Interrupt Vector Table
-'for R6.120
+'Get M50 Interrupt Vector Table
+'source : https://discord.com/channels/671072748985909258/756215666800853113/797561855136104539
 
-dim pIvt_table_1 = 0x2efd8
-dim vector1_len = 0x280
+dim pIvt_table_1 = 0x180b8
+dim vector1_len = 0x200
 
-dim pIvt_table_2 = 0x311dc
+dim pIvt_table_2 = 0x18cac
 dim vector2_len = 0x40
 
 private sub write_table(hFile, pVectorTable, startVector, numElements)
@@ -33,5 +33,5 @@ private sub save_ivt(fileName)
 end sub
 
 private sub Initialize()
-  save_ivt("B:/R6_IVT.TXT")
+  save_ivt("B:/M50_IVT.TXT")
 end sub
