@@ -2,6 +2,8 @@
 ' source : SRSA, may 2020, https://www.magiclantern.fm/forum/index.php?topic=23296.msg227190#msg227190
 ' tested on R6.150
 ' should work on other models. slow method
+' see also hex2bin.py
+
 dim start = 0xe0000000
 dim length = 0x10000
 
