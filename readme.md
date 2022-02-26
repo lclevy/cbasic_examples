@@ -97,9 +97,9 @@ The tree is organised per Digic version, Camera models and firmware version as f
 
 - Digic8 (scripts validated on several Digic8 cameras)
 
-- DigicX (scripts validated on several Digic8 cameras)
+- DigicX (scripts validated on several DigicX cameras)
 
-- R6 (scripts running on several on R6 firmware version)
+- R6 (scripts running on several on R6 firmware versions)
 
 - R6.150 (scripts validated only on R6, firmware v150)
 
@@ -123,7 +123,7 @@ Script file must be renamed to *extend.m*
 
 - Digic X: R5, R6
 
-### Which cameras have Powershot Basic ?
+### Which cameras have Powershot CBasic ?
 
 - M100
 

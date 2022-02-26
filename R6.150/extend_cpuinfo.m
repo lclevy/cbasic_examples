@@ -1,4 +1,5 @@
 ' https://www.magiclantern.fm/forum/index.php?topic=25305.msg230668#msg230668
+' https://www.magiclantern.fm/forum/index.php?topic=17714.0
 ' firmware function addresses 
 ' R6.150 addresses
 dim a_fio_readf=0xE07B32D4 ' FIO_ReadFile

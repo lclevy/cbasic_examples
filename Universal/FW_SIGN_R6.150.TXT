@@ -1,0 +1,7 @@
+model_id : 0x80000453
+rom version: 4.9.0
+GetFirmwareVersion: 150
+fw signature from 0xe0100000: 0x129372a8
+fw signature from 0xe0040000: 0xce84b41f
+at e0100000: 09480cee100fbff36f8f42f20000c0f20000854610eeb05f15f00f0001
+at e0040000: cef81cc143f2300cddf81ce0cef820c14ef22e7cddf81ce0cef824c1dd
