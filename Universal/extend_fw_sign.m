@@ -1,3 +1,4 @@
+' name : Universal/extend_fw_sign.m 
 ' tested on R6.150 and R.180
 ' source : https://discord.com/channels/671072748985909258/761652283724922880/933858470262882314
 ' should work on Digix8 and Digic10 at least

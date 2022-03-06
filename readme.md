@@ -53,8 +53,9 @@ As the main goal is to limit risk of running code and promote collaboration, sub
 ## Example
 
 ```
-' for Digic10
-' tested on R6.150
+' name : Universal/extend_fw_sign.m
+' for Digic10 and Digic8 at least
+' tested on R6.150 and R.180
 ' source : https://discord.com/channels/671072748985909258/761652283724922880/933858470262882314
 ' must be adapted for Digic8, as pRom0BaseAddress = 0xE0040000
 ' author Lorenzo33324, based on Coon work
@@ -94,6 +95,10 @@ private sub Initialize()
   ' dumpf()
 end sub
 ```
+
+See https://github.com/lclevy/cbasic_examples/blob/main/Universal/extend_fw_sign.m
+
+
 
 ## Repository organisation
 
