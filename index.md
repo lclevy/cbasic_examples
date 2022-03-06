@@ -2,10 +2,6 @@
 
 For a given script, tree location is generally not given as file can move to more general dir (firmware version->camera->Digic version->universal) or exists for several camera or firmware versions.
 
-
-
-
-
 ## dumping
 
 - extend_dump_mem.m : dump specific memory range
@@ -45,10 +41,6 @@ To run script only on specific camera and fw version. A checksum is computed bef
 
 ## extend_fw_sign.m
 
-In DigicX, could be adapted to Digic8 easily.
+For DigicX and Digic8 at least.
 
 Compute firmware checksum like  *extend_checksig.m*, and saved in to sdcard, with other camera values in B:/FW_SIGN.TXT
-
-
-
-

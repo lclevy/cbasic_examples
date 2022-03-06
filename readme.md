@@ -6,6 +6,10 @@ Canon Basic is an embedded Basic like interpreter in most Canon Cameras. It allo
 
 Warning, there are some differences between Powershot Basic and Basic on DSLR/ILC cameras! 
 
+## Contributions
+
+Discord user "nm17" contributed a VS Code extension for Canon Basic here: https://github.com/nm17/canon-basic-language-vscode
+
 ## Previous work
 
 - [DEF CON 18 - Oren Isacson &amp; Alfredo Ortega - Exploiting Digital Cameras - YouTube](https://www.youtube.com/watch?v=sy_j51L9nHE)
@@ -38,11 +42,11 @@ As the main goal is to limit risk of running code and promote collaboration, sub
 
 1. all suggested scripts must have been tested before creating a PR
 
-2. you <u>must </u>indicate on which camera(s) and firmware(s) version it has been tested ("tested on" list)
+2. you <u>must</u> indicate on which camera(s) and firmware(s) version it has been tested ("tested on" list)
 
-3. you <u>should </u>explain which parts must be modified to run on other models / firmware versions
+3. you <u>should</u> explain which parts must be modified to run on other models / firmware versions
 
-4. if the script is mostly based on someone's work, you <u>must </u>highlight it
+4. if the script is mostly based on someone's work, you <u>must</u> highlight it
 
 5. it is <u>strongly advised</u> to cite source where the content of the script has been discussed / based on (like Forum messages or Discord exchanges) 
 
